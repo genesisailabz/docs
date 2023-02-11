@@ -13,5 +13,5 @@ coverY: 0
 
 #### MEDIUM : [https://medium.com/@genesisbotai](https://medium.com/@genesisbotai)
 
-#### DISCORD CHANNEL:  <mark style="color:blue;">**https//discordapp.com/users/1073144778348306534**</mark>
+#### GITHUB: [https://github.com/genesisailabz](https://github.com/genesisailabz)
 
